@@ -1,7 +1,7 @@
 # 📊 Enterprise-Data-Warehouse & Analytics Project
 
 Welcome to the **Data Warehouse & Analytics Project**!  
-This project is a practical, end-to-end solution that demonstrates how to build a modern data warehouse using **PostgreSQL**, following best practices in **data engineering**, **ETL**, and **analytics**.
+This project is a practical, end-to-end solution that demonstrates how to build a modern data warehouse using **SQL Server**, following best practices in **data engineering**, **ETL**, and **analytics**.
 
 ---
 
@@ -31,7 +31,7 @@ I’ve structured the warehouse using the **Medallion Architecture**—a layered
 ### 🏗️ Data Engineering – Building the Data Warehouse
 
 #### 🎯 Objective  
-Developing a modern data warehouse using **PostgreSQL** to consolidate sales-related data from ERP and CRM systems, enabling efficient analytical reporting and data-driven decision-making.
+Developing a modern data warehouse using **SQL Server** to consolidate sales-related data from ERP and CRM systems, enabling efficient analytical reporting and data-driven decision-making.
 
 #### 📋 Specifications
 
