@@ -1,4 +1,4 @@
-# 📊 Enterprise-Data-Warehouse & Analytics Project
+# 📊 Enterprise Data-Warehouse & Analytics Project
 
 Welcome to the **Data Warehouse & Analytics Project**!  
 This project is a practical, end-to-end solution that demonstrates how to build a modern data warehouse using **SQL Server**, following best practices in **data engineering**, **ETL**, and **analytics**.
@@ -71,4 +71,3 @@ Developing SQL-based analytics and reporting logic to deliver actionable insight
 These insights are designed to empower stakeholders with key business metrics and help steer decisions with confidence.
 
 ---
-
