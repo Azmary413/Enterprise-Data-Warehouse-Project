@@ -3,6 +3,7 @@
 Welcome to the **Data Warehouse & Analytics Project**!  
 This project is a practical, end-to-end solution that demonstrates how to build a modern data warehouse using **SQL Server**, following best practices in **data engineering**, **ETL**, and **analytics**.
 
+
 ---
 
 ## 🏗️ Architecture: Medallion Layered Design
