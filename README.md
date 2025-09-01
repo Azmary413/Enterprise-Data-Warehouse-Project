@@ -8,6 +8,7 @@ This project is a practical, end-to-end solution that demonstrates how to build 
 ## 🏗️ Architecture: Medallion Layered Design
 
 I’ve structured the warehouse using the **Medallion Architecture**—a layered approach that brings clarity and scalability.
+![banner](https://github.com/Azmary413/Enterprise-Data-Warehouse-Project/blob/main/docs/data_architecture.jpg)
 
 ### 🔹 Bronze Layer – Raw Ingestion  
 - Raw data is ingested directly from CRM and ERP source files (CSV format)  
