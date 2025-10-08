@@ -76,6 +76,3 @@ These insights are designed to empower stakeholders with key business metrics an
 🔗 **Notion Project Link:** [SQL Data Warehouse Project](https://www.notion.so/SQL-Data-Warehouse-Project-262483f0324c80f0b61afa41563562fa?source=copy_link)
 
 ---
-
-
-
